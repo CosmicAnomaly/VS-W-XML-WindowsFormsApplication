@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--/* Author: Scott Robinson
+ * December 2016
+ * XML Final Project
+ * The purpose of this application is to show the use of XML in an application other than an ASP.Net website. 
+ * It is a simple User Interface that lets the user select a team and see relevant info about that team.
+ * */-->
+<root>
+  
+  <Team name="Manchester United">
+    <League>Premiere</League>
+    <Titles>20</Titles>
+    <Manager>Jose Mourinho</Manager>
+    <Captain>Wayne Rooney</Captain>
+    <Position>6th</Position>
+  </Team>
+
+  <Team name="Liverpool">
+    <League>Premiere</League>
+    <Titles>18</Titles>
+    <Manager>Jurgen Klopp</Manager>
+    <Captain>Jordan Henderson</Captain>
+    <Position>3rd</Position>
+  </Team>
+
+  <Team name="Leicester City">
+    <League>Premiere</League>
+    <Titles>1</Titles>
+    <Manager>Claudio Ranieri</Manager>
+    <Captain>Wes Morgan</Captain>
+    <Position>14th</Position>
+  </Team>
+
+  <Team name="Arsenal">
+    <League>Premiere</League>
+    <Titles>13</Titles>
+    <Manager>Arsene Wenger</Manager>
+    <Captain>Per Mertesacker</Captain>
+    <Position>2nd</Position>
+  </Team>
+
+  <Team name="Manchester City">
+    <League>Premiere</League>
+    <Titles>4</Titles>
+    <Manager>Pep Guardiola</Manager>
+    <Captain>Vincent Kompany</Captain>
+    <Position>4th</Position>
+  </Team>
+
+  <Team name="Chelsea">
+    <League>Premiere</League>
+    <Titles>5</Titles>
+    <Manager>Antonio Conte</Manager>
+    <Captain>John Terry</Captain>
+    <Position>1st</Position>
+  </Team>
+</root>
